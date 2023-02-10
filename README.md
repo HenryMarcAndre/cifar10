@@ -1,2 +1,4 @@
 # cifar10
-Image classification on the cifar10 data set using Tensor Flow Keras. Final test accuracy: 71%.
+<img src="bird.png" alt="image">
+<img src="ship.png" alt="image">
+<img src="car.png" alt="image">
